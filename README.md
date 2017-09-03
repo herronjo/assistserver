@@ -2,7 +2,7 @@
 The server for the personal assistant I made.
 
 # Running
-Download index.js, then run `node index.js`
+Download `index.js`, then run `node index.js`
 
 Your server is now running at `localhost:8000`.
 
